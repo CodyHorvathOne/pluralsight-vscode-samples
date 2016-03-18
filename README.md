@@ -1,4 +1,4 @@
-# pluralsight-vscode-samples
+# pluralsight-vscode-samples here
 VS Code samples for Pluralsight course on Code
 
 For most samples you will need these global npm packages to be installed.
